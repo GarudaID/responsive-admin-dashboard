@@ -1,6 +1,7 @@
 <h1><p align="center">
 Responsive Dashboard
 </p></h1>
+<img src="https://github.com/GarudaID/responsive-admin-dashboard/blob/main/pictures/pictures.JPG">
 GarudaID UI Framework is a Web Application Admin Dashboard built on top of Bootstrap 5 Framework. It was created to be the most functional, clean and well designed theme for any types of backend applications. We have carefully designed all common elements.
 <h2>Code</h2>
 
